@@ -33,6 +33,9 @@ module.exports = {
         'mobile': "url('/src/assets/images/bg-mobile.svg')",
         'desktop': "url('/src/assets/images/bg-desktop.svg')",
       },
+      boxShadow: {
+        'button': '0 6px 16px 4px rgba(0, 0, 0, 0.3)',
+      }
     },
   },
   plugins: [],
