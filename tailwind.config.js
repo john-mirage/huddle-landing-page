@@ -10,8 +10,7 @@ module.exports = {
       sm: '576px',
       md: '768px',
       lg: '992px',
-      xl: '1200px',
-      '2xl': '1400px',
+      xl: '1280px',
     },
     colors: {
       'violet': 'hsl(257, 40%, 49%)',
@@ -34,7 +33,7 @@ module.exports = {
         'desktop': "url('/src/assets/images/bg-desktop.svg')",
       },
       boxShadow: {
-        'button': '0 6px 16px 4px rgba(0, 0, 0, 0.3)',
+        'button': '0 6px 16px 4px rgba(0, 0, 0, 0.2)',
       }
     },
   },
